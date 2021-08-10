@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Variables_Datatypes
+comment0.text=\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ names\ of\ variables\ should\ start\ with\ a\ small\ letter\r\n\ names\ of\ classes\ start\ with\ a\ capital\ letter\r\n\ every\ new\ word\ begins\ with\ a\ capital\ letter\r\n\ CONSTANTS\ are\ written\ in\ ALL\ CAPS\r\n
+numComments=2

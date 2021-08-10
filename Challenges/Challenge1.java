@@ -2,9 +2,10 @@ package Challenges;
 
 /**
  * Level 1: Write a program that accepts 2 numbers from the user and calculates
- * the sum, difference, product and quotient of these numbers.
+ * the sum, difference, product and quotient and remainder of these numbers.
  * 
- * Level 2: 
+ * I want you to use camelCase
+ * I want atleast 2 comments
  */
 public class Challenge1
 {
